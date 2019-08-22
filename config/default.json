@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://AnexHeil:forthehumanrace@contactkeeper-hmlou.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtecret" : "secret"
+}
